@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-include-display-run",
+  "version": "1.0.3",
+  "description": "Plugin for Gitbook that displays and runs code from external file",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=2.x.x"
+  },
+  "dependencies": {
+    "htmlencode": "0.0.4",
+    "q": "*"
+  },
+  "keywords": [
+    "gitbook",
+    "include"
+  ],
+  "author": "ZingChart",
+  "license": "MIT",
+  "homepage": "https://github.com/zingchart/gitbook-plugin-include-display-run",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zingchart/gitbook-plugin-include-display-run.git"
+  }
+}
